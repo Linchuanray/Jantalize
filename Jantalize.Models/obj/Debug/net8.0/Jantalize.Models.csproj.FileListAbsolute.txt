@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\bin\Debug\net8.0\Jantalize.Models.deps.json
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\bin\Debug\net8.0\Jantalize.Models.dll
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\bin\Debug\net8.0\Jantalize.Models.pdb
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\obj\Debug\net8.0\Jantalize.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\obj\Debug\net8.0\Jantalize.Models.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\obj\Debug\net8.0\Jantalize.Models.AssemblyInfo.cs
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\obj\Debug\net8.0\Jantalize.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\obj\Debug\net8.0\Jantalize.Models.dll
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\obj\Debug\net8.0\refint\Jantalize.Models.dll
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\obj\Debug\net8.0\Jantalize.Models.pdb
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\obj\Debug\net8.0\ref\Jantalize.Models.dll
+C:\Users\user\source\repos\Jantalize\Jantalize.Models\obj\Debug\net8.0\Jantalize.Models.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Jantalize\Jantalize.Utility\bin\Debug\net8.0\Jantalize.Utility.deps.json
+C:\Users\user\source\repos\Jantalize\Jantalize.Utility\bin\Debug\net8.0\Jantalize.Utility.dll
+C:\Users\user\source\repos\Jantalize\Jantalize.Utility\bin\Debug\net8.0\Jantalize.Utility.pdb
+C:\Users\user\source\repos\Jantalize\Jantalize.Utility\obj\Debug\net8.0\Jantalize.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Jantalize\Jantalize.Utility\obj\Debug\net8.0\Jantalize.Utility.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Jantalize\Jantalize.Utility\obj\Debug\net8.0\Jantalize.Utility.AssemblyInfo.cs
+C:\Users\user\source\repos\Jantalize\Jantalize.Utility\obj\Debug\net8.0\Jantalize.Utility.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Jantalize\Jantalize.Utility\obj\Debug\net8.0\Jantalize.Utility.dll
+C:\Users\user\source\repos\Jantalize\Jantalize.Utility\obj\Debug\net8.0\refint\Jantalize.Utility.dll
+C:\Users\user\source\repos\Jantalize\Jantalize.Utility\obj\Debug\net8.0\Jantalize.Utility.pdb
+C:\Users\user\source\repos\Jantalize\Jantalize.Utility\obj\Debug\net8.0\ref\Jantalize.Utility.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Jantalize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5344844-8A08-4046-A8A1-4F9EADCBD8FE}|Jantalize\\Jantalize.csproj|c:\\users\\user\\source\\repos\\jantalize\\jantalize\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5344844-8A08-4046-A8A1-4F9EADCBD8FE}|Jantalize\\Jantalize.csproj|solutionrelative:jantalize\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5344844-8A08-4046-A8A1-4F9EADCBD8FE}|Jantalize\\Jantalize.csproj|c:\\users\\user\\source\\repos\\jantalize\\jantalize\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5344844-8A08-4046-A8A1-4F9EADCBD8FE}|Jantalize\\Jantalize.csproj|solutionrelative:jantalize\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Jantalize\\Jantalize\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "Jantalize\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Jantalize\\Jantalize\\appsettings.Production.json",
+              "RelativeToolTip": "Jantalize\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T11:24:30.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Jantalize\\Jantalize\\appsettings.json",
+              "RelativeDocumentMoniker": "Jantalize\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Jantalize\\Jantalize\\appsettings.json",
+              "RelativeToolTip": "Jantalize\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T11:14:21.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
